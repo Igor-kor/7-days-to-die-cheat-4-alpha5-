@@ -1,0 +1,27 @@
+﻿Построение начато 02.01.2014 13:24:36.
+     1>Проект "C:\Users\Игорь\Desktop\новые проги\винапи проба\7day to die alpha 5\2134\2134.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "x64\Release\2134.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt Main.cpp
+         Main.cpp
+     1>Main.cpp(76): warning C4244: инициализация: преобразование "UINT_PTR" в "int", возможна потеря данных
+     1>Main.cpp(86): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Игорь\Desktop\новые проги\винапи проба\7day to die alpha 5\x64\Release\2134.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\2134.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Игорь\Desktop\новые проги\винапи проба\7day to die alpha 5\x64\Release\2134.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Игорь\Desktop\новые проги\винапи проба\7day to die alpha 5\x64\Release\2134.lib" /MACHINE:X64 x64\Release\resource.res
+         x64\Release\Main.obj
+         Создание кода
+         Создание кода завершено
+         2134.vcxproj -> C:\Users\Игорь\Desktop\новые проги\винапи проба\7day to die alpha 5\x64\Release\2134.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Игорь\Desktop\новые проги\винапи проба\7day to die alpha 5\x64\Release\2134.exe;#1" /manifest x64\Release\2134.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "x64\Release\2134.unsuccessfulbuild" удаляется.
+         Обращение к "x64\Release\2134.lastbuildstate".
+     1>Построение проекта "C:\Users\Игорь\Desktop\новые проги\винапи проба\7day to die alpha 5\2134\2134.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.69
